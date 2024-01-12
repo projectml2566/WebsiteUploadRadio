@@ -56,7 +56,7 @@ const uploadFile = async (fileObject) => {
         },
         requestBody: {
             name: fileObject.originalname,
-            parents: ["1xlJSUlD1rTpE414wiWxU3Fu-irNrvGZj"],
+            parents: ["1POpx1lnwLhsvkiiqvRfSBLfPalg9VaM5"],
         },
         fields: "id,name",
     });
